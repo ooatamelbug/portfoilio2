@@ -1,0 +1,23 @@
+.port {
+    width: 270px;
+    height: 270px; 
+    top: 0px;
+    left: 0px;
+}
+.abovep {
+    position: absolute;
+    display: block;
+    text-align: center;
+    top: 40%;
+    width : 100%;
+    height: 20%;
+    background-color: #fcf8e3a6 ;
+}
+.above {
+    position: absolute;
+    display: block;
+    color: #000;
+    text-align: center;
+    left: 20%;
+    font-size: 30px
+}

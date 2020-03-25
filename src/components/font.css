@@ -1,0 +1,8 @@
+.info {
+    position: relative;
+}
+.info .fa {
+    font-size: 30px;
+    top: 7px;
+    position: absolute;
+}
